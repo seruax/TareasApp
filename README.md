@@ -2,12 +2,12 @@
 ## _Aplicación para la gestión de tareas_
 #
 ### Descripción del Proyecto
-Esta aplicación, desarrolada en Spring Boot utilizando Spring Data JPA, JSP y MySQL, está diseñada para el seguimiento y gestión de tareas.
+Esta aplicación, desarrollada en Spring Boot utilizando Spring Data JPA, JSP, MySQL y Bootstrap, está diseñada para el seguimiento y gestión de tareas.
 Aquí están los aspectos más destacados:
 
 
 ### Funcionalidades Principales:
-**CRUD para Entidades:**
+**CRUD para Tareas**
 - **Creación** de tareas con título, fecha de creación y estado de la tarea.
 - **Modificación** y **Eliminación** de tareas.
 - **Panel** gráfico, desarrollado con Bootstrap, con el listado de las tareas y opciones para administrarlas.
