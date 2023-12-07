@@ -44,6 +44,10 @@ mvn spring-boot:run
 ```
 
 **Exploración de la APP**:
+- Acceda la aplicación:
+```sh
+http://localhost:8080
+```
 - Cree una nueva tarea con los datos necesarios.
 - Cuando haya completado la tarea, seleccione 'Marcar Completado' para cambiar su estado a Completada.
 - Si necesita editar, o eliminar la tarea, seleccione la opción correspondiente.
